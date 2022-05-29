@@ -29,11 +29,11 @@ I Studied B.tech Electronic and Communication Enginnering and work as a Freelanc
   
 .    
    
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&hide=["stars"]&show_icons=true)
+![Niloy Mondal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niloyrio&hide=["stars"]&show_icons=true)
 
 -------
 
-⭐️ From [@Amchuz](https://github.com/Amchuz)
+⭐️ From [@niloyrio](https://github.com/niloyrio)
 <!--
 **niloyrio/niloyrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
