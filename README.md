@@ -1,4 +1,4 @@
-# 👩‍🔬 Niloy Mondal – Embedded Systems Engineer | PCB Designer | AI in Healthcare
+#  Niloy Mondal – Embedded Systems Engineer | PCB Designer | AI in Healthcare
 
 Hi there 👋 I’m **Niloy Mondal**, an electronics engineer passionate about fusing hardware with intelligence. I specialize in:
 
@@ -56,8 +56,7 @@ I'm working as a **Hardware Design Engineer at PWB Design Services (Indiana, USA
 
 - 🌍 Website: [https://electuni.com](https://electuni.com)
 - 💼 LinkedIn: [linkedin.com/in/niloy-mondal](https://bd.linkedin.com/in/niloy-mondal)
-- 🛠 Fiverr: [fiverr.com/niloy_mondal](https://www.fiverr.com/niloy_mondal)
-- 🌟 Upwork: [Upwork Profile](https://www.upwork.com/freelancers/~01e12da482d6ce2ab8)
+
 
 ---
 
