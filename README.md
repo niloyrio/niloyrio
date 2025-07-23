@@ -1,6 +1,6 @@
-# 👩‍🔬 Sneha Mondal – Embedded Systems Engineer | PCB Designer | AI in Healthcare
+# 👩‍🔬 Niloy Mondal – Embedded Systems Engineer | PCB Designer | AI in Healthcare
 
-Hi there 👋 I’m **Sneha Mondal**, an electronics engineer passionate about fusing hardware with intelligence. I specialize in:
+Hi there 👋 I’m **Niloy Mondal**, an electronics engineer passionate about fusing hardware with intelligence. I specialize in:
 
 🎯 **Embedded Systems Development**  
 🎯 **High-Speed & Multi-Layer PCB Design**  
