@@ -1,50 +1,68 @@
-### Hi there 👋
+# 👩‍🔬 Sneha Mondal – Embedded Systems Engineer | PCB Designer | AI in Healthcare
 
-<p align="center">
-  <img src="">
-</p>
-  
-.
-  
-  
-### 👋 Welcome !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-  
-:heart: hardware engineer  | :black_heart: PCB Design | :blue_heart: DevOPS  | :heart: Cloude
-  
-I Studied B.tech Electronic and Communication Enginnering and work as a Freelancer Hardware Designe Engineer. Currenlty Learing Devops and Cloud.  
+Hi there 👋 I’m **Sneha Mondal**, an electronics engineer passionate about fusing hardware with intelligence. I specialize in:
 
-- 🔭 I’m currently working with Altium, Eagle PCB desigine tools.s
-- 🌱 I’m currently learning on Linux Sell | Puppet | AWS.
-- 👯 I’m looking to collaborate on Hardware Design | Clode Enginnering  Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: There is always solution behind the problem. You just have to find it.
-- 📫 How to reach me:
+🎯 **Embedded Systems Development**  
+🎯 **High-Speed & Multi-Layer PCB Design**  
+🎯 **AI-Powered Biomedical Devices**  
+🎯 **IoT Prototyping with ESP32, Arduino, and STM32**  
+🎯 **Signal Processing & Machine Learning**  
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/niloyrio) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/PrifyPhilip) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Amchuz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/prify-philip-343b53150/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](amchu1714@gmail.com)
-|---|---|---|---|---|---|
+---
 
-----
+## 💻 Current Focus
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-  
-.    
-   
-![Niloy Mondal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niloyrio&hide=["stars"]&show_icons=true)
+### 🫀 Real-Time ECG Monitoring with AI
+I’m developing an **ESP32-based ECG system** using the **ADS1292R sensor**, featuring:
+- Real-time waveform visualization over Wi-Fi
+- Signal processing with the **Pan-Tompkins algorithm**
+- AI classification using a custom **1D CNN–Transformer model (CAT-Net)**
+- Local web dashboard (hosted on ESP32) for diagnostics and history
 
--------
+### 🛠️ Professional PCB Design
+I'm working as a **Hardware Design Engineer at PWB Design Services (Indiana, USA)** and also run my hardware consultancy **[Electuni.com](https://electuni.com)**. I handle:
+- RF frontends (24GHz)
+- Mixed signal design
+- Sensor integration
+- Triac control, power supplies, and stepper motor drivers
 
-⭐️ From [@niloyrio](https://github.com/niloyrio)
-<!--
-**niloyrio/niloyrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 Tech Stack
+- **Languages:** C/C++, Python, MATLAB, JavaScript (basic), Verilog
+- **Hardware:** ESP32, STM32, ADS1292R, MAX6675, WS2811, TMC2209, NEMA17
+- **Design Tools:** Altium, KiCad, OrCAD, Fusion360
+- **Simulation:** LTSpice, MATLAB Simulink
+- **AI/ML:** PyTorch, SciKit, OpenCV
+- **Others:** OTA, MQTT, Bluetooth LE, Wi-Fi, WebSocket
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+
+### 🧠 CAT-Net ECG Classifier
+> Local deep learning pipeline for arrhythmia detection  
+[Code coming soon]
+
+### 🔧 Dual Heater Control System with ESP32-S3 LCD Dev Board  
+> GPIO-optimized control of heaters using triac + MAX6675 sensors  
+[PCB design available on request]
+
+### 🚘 Gesture-Based ESP32 Car Controller  
+> Dual ESP32 communication with accelerometer-based motion control  
+[Demo video & schematics coming]
+
+---
+
+## 🌐 Let’s Connect
+
+- 🌍 Website: [https://electuni.com](https://electuni.com)
+- 💼 LinkedIn: [linkedin.com/in/niloy-mondal](https://bd.linkedin.com/in/niloy-mondal)
+- 🛠 Fiverr: [fiverr.com/niloy_mondal](https://www.fiverr.com/niloy_mondal)
+- 🌟 Upwork: [Upwork Profile](https://www.upwork.com/freelancers/~01e12da482d6ce2ab8)
+
+---
+
+## 🤝 Open to Collaborations
+
+If you're working on a meaningful healthcare or embedded system project, feel free to reach out. I'm open to research, prototyping, and freelance collaboration.
+
+> **"Turning Ideas into Reality – One Circuit at a Time."**
